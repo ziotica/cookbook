@@ -1,0 +1,27 @@
+[TITLE] Tomato Omelette
+[SERVINGS] 2
+[COOK_TIME] 10 min
+[INGREDIENTS]
+6 eggs
+1/2 red onion, chopped
+3 Roma tomatoes, halved and sliced
+1 cup (125g) cheddar cheese, grated
+1/3 cup milk
+125g butter
+2 tbsp parsley, chopped
+2 tbsp chives, chopped
+[INGREDIENTS_LIST]
+egg, red onion, tomato, cheddar, milk, butter, parsley, chives
+[METHOD]
+1. In a large jug, whisk eggs and milk together. Season to taste.
+2. Melt half the butter in a frying pan over a medium heat. Add red onion and fry for 4-5 minutes, until soft, then add the tomatoes and stir for a few minutes until soft. Transfer to a bowl and set aside. 
+3. Wipe out the pan with a paper towel. Melt the remaining butter in the same pan over a medium heat.
+4. Add half of the egg mixture. When almost set, spoon on half the tomato mixture and add the cheese. Fold over and cook for 1 minute. Slide onto a serving plate.
+5. Repeat with the remaining ingredients for the second omelette.
+6. Sprinkle the omelettes with the parsley and chives, and serve. 
+[NOTES]
+[TAGS] breakfast, gluten free, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
