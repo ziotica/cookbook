@@ -1,0 +1,25 @@
+[TITLE] Eggs Baked in Avocado Boats
+[SERVINGS] 2
+[COOK_TIME] 15 min
+[INGREDIENTS] 
+1 large avocado, halved and pit removed
+1/4 tsp ground cumin
+1 tbsp red capsicum, finely chopped
+1 spring onion, finely sliced
+2 slices fresh lime
+2 eggs
+Salt and pepper
+[INGREDIENTS_LIST] 
+avocado, cumin, capsicum, spring onion, lime, egg, salt, pepper
+[METHOD]
+1. Preheat oven to 220°C.
+2. Place avocado halves in separate ramekins (they must sit flat so the eggs don't run out). Sprinkle a pinch of cumin into each hole, then crack one egg into each avocado half. Season to taste.
+3. Bake in the oven until egg is cooked to preference (or 12 minutes).
+4. Remove from oven and sprinkle over the capsicum and spring onion. 
+5. Squeeze over fresh lime to taste.
+[NOTES]
+[TAGS] breakfast, gluten free, dairy free, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
