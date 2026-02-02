@@ -1,0 +1,28 @@
+[TITLE] Cornflake French Toast Sticks
+[SERVINGS] 4
+[COOK_TIME] 15 min
+[INGREDIENTS]
+1/4 tsp cinnamon
+2 cups (60g) cornflakes, crushed
+4 slices of bread, cut into thick strips
+2 eggs
+2 tbsp milk
+1/2 tsp vanilla extract
+2 tbsp butter
+Maple syrup
+Blueberries
+[INGREDIENTS_LIST]
+cinnamon, cornflakes, bread, egg, milk, vanilla extract, butter, maple syrup, blueberries
+[METHOD]
+1. Please the eggs, milk, vanilla and cinnamon in a large bowl and whisk till combined.
+2. Lay the crushed cornflakes onto a clean and dry work surface.
+3. Dip each bread strip into the egg mixture and then roll it through the crushed cornflakes.
+4. Melt the butter in a large frying pan over a medium heat.
+5. Add crumbed bread strips to pan and cook for 2-3 minutes per side until crunchy.
+6. Service with maple syrup and blueberries.
+[NOTES]
+[TAGS] breakfast, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals

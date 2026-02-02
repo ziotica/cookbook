@@ -1,0 +1,22 @@
+[TITLE] Green Smoothie Bowl
+[SERVINGS] 4
+[COOK_TIME] 5 min
+[INGREDIENTS]
+2 cups almond milk
+2 cups (60g) baby spinach
+1 kiwi fruit, sliced
+1 zucchini, frozen
+4 kale leaves (de-stemmed)
+Mixed nuts, chopped
+1 tbsp honey
+[INGREDIENTS_LIST]
+almond milk, spinach, kiwi fruit, zucchini, kale, nuts, honey
+[METHOD]
+1. Place milk, spinach, zucchini and kale in a blender unti all the ingredients are combined.
+2. Pour the mixture into serving bowls or cups. Add kiwi fruit slices on top and sprinkle with nuts.
+[NOTES]
+[TAGS] breakfast, gluten free, dairy free, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals

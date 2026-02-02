@@ -1,0 +1,27 @@
+[TITLE] Veggie Pancakes
+[SERVINGS] 2 
+[COOK_TIME] 15 min
+[INGREDIENTS] 
+1 1/2 cups (400g) cooked, mashed potato
+2 spring onions, finely chopped
+1/2 cup frozen peas 
+1/2 cup frozen corn kernels
+1/4 cup plain flour
+2 eggs, lightly beaten
+3/4 cup milk
+Salt and pepper
+Vegetable oil
+[INGREDIENTS_LIST]
+potato, spring onions, peas, corn, flour, eggs, milk, salt, pepper, oil
+[METHOD]
+1. In a large bowl, mix together the potato, flour, spring onions, peas, corn, eggs, and milk. Season the mixture with salt and pepper.
+2. Shape the mixture into flattened patties and set aside.
+3. In a large frying pan heat enough oil to sit at about 1cm deep.
+4. Gently slide the patties into the oil and fry until crisp and golden all over, flipping once during cooking.
+5. Place on paper towels to drain.
+[NOTES]
+[TAGS] breakfast, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
