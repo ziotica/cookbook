@@ -1,0 +1,5 @@
+Includes: 
+Search by TAGS
+Search by INGREDIENTS
+Search by RATING
+Weekly meal planning, similar INGREDIENTS

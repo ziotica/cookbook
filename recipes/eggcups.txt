@@ -1,0 +1,21 @@
+[TITLE] Egg Cups with Ham and Tomato
+[SERVINGS] 2
+[COOK_TIME] 15 min
+[INGREDIENTS] 
+4 slices ham 
+2 Roma tomatoes (sliced)
+4 large eggs
+Oil
+Salt and pepper
+[INGREDIENTS_LIST]
+ham, tomato, egg, oil, salt, pepper
+[METHOD] 
+1. Preheat the oven to 200°C.
+2. Lightly grease four muffin trays. Press a slice of ham into each muffin cup. Crack an egg into each cup and arrange tomato slices on top.
+3. Bake for 10 minutes on the middle shelf of the oven, until whites are cooked but yolks are still runny.
+4. Season eggs with salt and pepper and remove from muffin trays.
+[NOTES]
+[TAGS] breakfast, gluten free, dairy free
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
