@@ -1,0 +1,30 @@
+[TITLE] Buckwheat Berry Pancakes
+[SERVINGS] 2
+[COOK_TIME] 15 min
+[INGREDIENTS]
+1 cup buckwheat flour
+1 1/4 cups buttermilk
+1/4 cup maple syrup
+1/2 berries 
+1 tbsp sugar
+1 tsp baking powder
+1 tsp baking soda
+1/4 tsp salt
+1 large egg
+1/2 tsp vanilla extract
+Butter
+[INGREDIENTS_LIST]
+buckwheat flour, buttermilk, maple syrup, berries, sugar, baking powder, baking soda, salt, egg, vanilla extract, butter
+[METHOD]
+1. In a medium-sized mixing bowl, combine flour, sugar, baking powder, baking soda and salt.
+2. Place the buttermilk in a separate bowl, then add the egg and vanilla extract.
+3. Pour the wet ingredients into the dry ingredients and mix until just combined - don't over-mix.
+4. Place a medium frying pan over medium heat and allow it to get hot before adding a knob of butter. Pour around 1/4 cup of batter into the frying pan. Cook for 2-3 minutes until bubbles start to pop up on the surface. Flip and cook for another 1-2 minutes until golden.
+5. Repeat until all batter has been used up.
+6. Serve with berries and maple syrup.
+[NOTES]
+[TAGS] breakfast, gluten free, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
