@@ -1,0 +1,25 @@
+[TITLE] Strawberry French Toast
+[SERVINGS] 3
+[COOK_TIME] 10 min
+[INGREDIENTS]
+3 eggs, lightly whisked
+6 slices thick white bread
+1/2 cup maple syrup
+1 1/4 cups fresh strawberries
+2/3 cup milk
+1/4 cup caster sugar
+60g butter
+[INGREDIENTS_LIST]
+egg, bread, maple syrip, strawberries, milk, sugar, butter
+[METHOD]
+1. Combine eggs, milk and sugar.
+2. Heat a frying pan over high heat and melt butter until foaming.
+3. Dip one slice of bread at a time into the egg and milk mixture, until soaked through.
+4. Fry bread slice for 3 minutes on each side until golden brown. Repeat with remaining bread and mixture.
+5. Serve hot with butter, maple syrup, and fresh berries. 
+[NOTES]
+[TAGS] breakfast, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals

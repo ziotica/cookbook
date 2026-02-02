@@ -1,0 +1,23 @@
+[TITLE] Classic Oatmeal
+[SERVINGS] 4
+[COOK_TIME] 10 min 
+[INGREDIENTS]
+1 cup milk
+2 cups rolled oats
+2 tbsp Greek yoghurt
+2 cups water
+1/2 tsp salt
+1 cup berries
+12 almonds
+[INGREDIENTS_LIST]
+milk, oats, yoghurt, water, salt, berries, almonds, nuts
+[METHOD]
+1. In a medium saucepan over high heat bring milk, water, and salt to the boil. Stir in rolled oats, then reduce heat and simmer, uncovered, for 5 minutes, stirring occasionally. Remove the pan from heat. Cover and let stand for 2 minutes before serving.
+2. Stir through the Greek yoghurt.
+3. Top with nuts and berries.
+[NOTES]
+[TAGS] breakfast, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals

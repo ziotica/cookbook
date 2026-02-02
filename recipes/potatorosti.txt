@@ -1,0 +1,27 @@
+[TITLE] Potato Rosti with Boiled Eggs
+[SERVINGS] 4
+[COOK_TIME] 15 min
+[INGREDIENTS]
+4 large eggs, room temperature
+3 potatoes, grated and squeezed
+1 large onion, grated and squeezed
+1/2 tsbp fresh thyme, chopped
+3 cups fresh rocket leaves
+1/4 cup plain flour
+50g butter, melted
+Salt and pepper
+Vegetable oil
+[INGREDIENTS_LIST]
+egg, potato, onion, thyme, rocket, flour, butter, salt, pepper, oil
+[METHOD]
+1. Place eggs in medium saucepan and cover with cold water. Bring to boil and reduce heat to a simmer for 7 minutes. Remove the eggs from the pot, peel, and set aside.
+2. Mix together potato, onion, flour, thyme, butter, and salt and pepper.
+3. Heat 1cm of oil in a large deep frying pan over medium heat. 
+4. Add 1/3 cups of potato mix to the pan and flatten to 8cm rounds. Fry for 3 minutes a side until cooked and golden.
+5. Served topped with rocket and egg on the side.
+[NOTES]
+[TAGS] breakfast, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
