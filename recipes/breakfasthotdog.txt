@@ -1,12 +1,21 @@
 [TITLE] Breakfast Hot Dogs
 [SERVINGS] 4
-[COOK_TIME]
-[INGREDIENTS]
+[COOK_TIME] 15 min
+[INGREDIENTS] 
+4 sausages, cooked
+4 flour tortilla wraps
+2 cups (60g) mixed salad leaves
+1 cucumber, sliced
+1 carrot, grated
 [INGREDIENTS_LIST]
+sausage, tortilla, salad, cucumber, carrot
 [METHOD]
+1. Preheat oven to 180°C.
+2. Warm the tortillas according to packet instructions.
+3. Lay out each tortilla on a flat surface and place a sausage in the middle. Add salad, cucumber and carrot to the tortillas and fold.
 [NOTES]
-[TAGS]
+[TAGS] breakfast, dairy free
 [NUTRITION]
 [RATING]
 [LAST_MADE]
-[SOURCE]
+[SOURCE] 15 Minute Meals
