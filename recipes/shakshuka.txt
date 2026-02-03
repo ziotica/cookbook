@@ -1,1 +1,30 @@
-
+[TITLE] Shakshuka
+[SERVINGS] 4
+[COOK_TIME] 15 min
+[INGREDIENTS] 
+3 cups (600g) cherry tomatoes
+2 cloves garlic
+1 onion
+2 tsp za'atar
+1/2 cup mozzarella cheese, grated
+4 eggs
+2 tbsp olive oil
+1/2 tsp brown sugar
+1/4 tsp salt
+1/4 tsp black pepper
+1 long red chilli, finely chopped
+Parsley leaves, to garnish
+[INGREDIENTS_LIST]
+tomato, garlic, onion, za'atar, cheese, egg, oil, sugar, salt, pepper, chilli, parsley
+[METHOD]
+1. Preheat oven to 190°C.
+2. Finely chop the tomatoes, garlic and onion.
+3. Heat the olive oil in a large ovenproof frying pan over medium heat. Add the sugar, salt and pepper and stir to combine. Cook for 30 seconds, then add the tomato micture and 1 teaspoon za'atar, continuing to stir to ensure everything is well mixed.
+4. Allow the sauce to simmer for 5 minutes until thickened. Remove from the heat and sprinkle mozzarella cheese over the top. Crack eggs into the frying pan and then transfer it to the oven. Bake for 6 minutes. 
+5. Remove from the oven and sprinkle with chopped chilli, if using, the remaining za'atar and parsley to garnish.
+[NOTES]
+[TAGS] breakfast, gluten free, vegetarian
+[NUTRITION]
+[RATING]
+[LAST_MADE]
+[SOURCE] 15 Minute Meals
